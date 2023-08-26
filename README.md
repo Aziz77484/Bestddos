@@ -15,7 +15,7 @@ git clone https://github.com/Aziz77484/Bestddos
 
 cd Bestddos
 
- (Your site)
+ go run BESTDDOS.go -site (Your site)
 
 Example:
 
